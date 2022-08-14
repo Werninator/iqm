@@ -3,7 +3,7 @@
 bl_info = {
     "name": "Export Inter-Quake Model (.iqm/.iqe)",
     "author": "Lee Salzman, Tobias Widlund",
-    "version": (2021, 6, 13),
+    "version": (2022, 8, 14),
     "blender": (3, 2, 2),
     "location": "File > Export > Inter-Quake Model",
     "description": "Export to the Inter-Quake Model format (.iqm/.iqe). Extended flip version.",
